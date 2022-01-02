@@ -4,6 +4,8 @@
 
 ![liucongg's zhihu](https://stats.justsong.cn/api/zhihu?username=LiuCongNLP)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liucongg&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Metrics](https://metrics.lecoq.io/liucongg?template=classic&config.timezone=Asia%2FShanghai)
 
