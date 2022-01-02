@@ -2,6 +2,9 @@
 
 [![liucongg's GitHub stats](https://github-readme-stats.vercel.app/api?username=liucongg)](https://github.com/anuraghazra/github-readme-stats)
 
+https://stats.justsong.cn/api/zhihu?username=LiuCongNLP
+
+
 ![Metrics](https://metrics.lecoq.io/liucongg?template=classic&config.timezone=Asia%2FShanghai)
 
 ![liucongg Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=liucongg&show_icons=true&count_private=true&theme=gotham)
