@@ -1,6 +1,6 @@
 ## 我是刘聪NLP
 
-- 🔭 南京某创业公司，NLP算法工程师
+- 🔭 南京某创业公司，首席算法架构师
 - 🌱 研究方向：QA系统（向量检索、阅读理解）、文本生成（问题生成、对话生成、摘要生成）、预训练语言模型等
 - 💬 微信：logCong
 - 📫 问题：<a href="https://www.zhihu.com/people/LiuCongNLP" target="_blank">知乎 @刘聪NLP</a>
